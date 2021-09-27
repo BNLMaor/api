@@ -1,0 +1,40 @@
+[04-Aug-2020 19:31:15 Asia/Jerusalem] PHP Warning:  include(../../includes/config.php): failed to open stream: No such file or directory in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 8
+[04-Aug-2020 19:31:15 Asia/Jerusalem] PHP Warning:  include(../../includes/config.php): failed to open stream: No such file or directory in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 8
+[04-Aug-2020 19:31:15 Asia/Jerusalem] PHP Warning:  include(): Failed opening '../../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 8
+[04-Aug-2020 19:31:15 Asia/Jerusalem] PHP Warning:  include(../../includes/functions.php): failed to open stream: No such file or directory in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 9
+[04-Aug-2020 19:31:15 Asia/Jerusalem] PHP Warning:  include(../../includes/functions.php): failed to open stream: No such file or directory in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 9
+[04-Aug-2020 19:31:15 Asia/Jerusalem] PHP Warning:  include(): Failed opening '../../includes/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 9
+[04-Aug-2020 19:31:15 Asia/Jerusalem] PHP Fatal error:  Uncaught Error: Class 'MBNL' not found in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 11
+[04-Aug-2020 19:31:40 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected end of file in /home/bnlstudioc/customer.bnlstudio.com/includes/functions.php on line 1
+[04-Aug-2020 19:40:43 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected ';' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 17
+[04-Aug-2020 19:41:14 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected ';' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 17
+[04-Aug-2020 19:42:27 Asia/Jerusalem] PHP Notice:  Undefined variable: _get in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 15
+[04-Aug-2020 19:50:22 Asia/Jerusalem] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 22
+[04-Aug-2020 19:50:36 Asia/Jerusalem] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 22
+[04-Aug-2020 19:50:47 Asia/Jerusalem] PHP Notice:  Undefined variable: phone in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 20
+[04-Aug-2020 19:50:49 Asia/Jerusalem] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 22
+[04-Aug-2020 19:50:55 Asia/Jerusalem] PHP Notice:  Undefined variable: phone in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 20
+[04-Aug-2020 19:50:55 Asia/Jerusalem] PHP Notice:  Undefined index: status in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 23
+[04-Aug-2020 19:51:13 Asia/Jerusalem] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 22
+[04-Aug-2020 19:51:27 Asia/Jerusalem] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 22
+[04-Aug-2020 19:51:48 Asia/Jerusalem] PHP Notice:  Undefined index: status in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 25
+[04-Aug-2020 19:53:21 Asia/Jerusalem] PHP Notice:  Undefined index: status in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 23
+[04-Aug-2020 20:04:33 Asia/Jerusalem] PHP Notice:  Undefined index: status in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 23
+[04-Aug-2020 20:05:25 Asia/Jerusalem] PHP Notice:  Undefined index: status in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 26
+[04-Aug-2020 20:14:24 Asia/Jerusalem] PHP Notice:  Undefined variable: data in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 35
+[04-Aug-2020 20:14:24 Asia/Jerusalem] PHP Notice:  Undefined variable: data in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 35
+[04-Aug-2020 20:14:27 Asia/Jerusalem] PHP Notice:  Undefined variable: data in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 35
+[04-Aug-2020 20:14:58 Asia/Jerusalem] PHP Notice:  Undefined variable: data in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 35
+[04-Aug-2020 20:15:14 Asia/Jerusalem] PHP Notice:  Undefined variable: data in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 35
+[04-Aug-2020 20:16:20 Asia/Jerusalem] PHP Notice:  Undefined variable: data in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 35
+[04-Aug-2020 20:16:29 Asia/Jerusalem] PHP Notice:  Undefined variable: data in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 35
+[04-Aug-2020 20:35:30 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected '}' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 43
+[04-Aug-2020 20:35:56 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected '}' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 43
+[04-Aug-2020 20:36:11 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 47
+[04-Aug-2020 20:36:12 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 47
+[04-Aug-2020 20:36:32 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 45
+[04-Aug-2020 20:37:46 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 47
+[04-Aug-2020 20:38:21 Asia/Jerusalem] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/bnlstudioc/customer.bnlstudio.com/sources/api.php on line 48
